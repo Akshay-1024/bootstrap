@@ -1,0 +1,93 @@
+body{
+	font-family: 'Lato';
+	background: rgb(204,204,204);
+}
+page {
+  background: white;
+  display: block;
+  margin:  auto;
+  margin-bottom: 0cm;
+  box-shadow: 0 0 0cm rgba(0,0,0,0.5);
+}
+page[size="A4"] {  
+  width: 21cm;
+  height: 29.7cm; 
+}
+
+.basic_info{
+	padding-top: 1cm;
+    text-align: left;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.number{
+	text-align: left;
+}
+.email{
+	float: right;
+}
+
+.PROFILE{
+	margin-bottom: 4px;
+	background-color: rgb(247,231,125);
+	text-align: center;
+	color: rgb(249, 97, 103);
+	font-size: 17px;
+	 
+}
+
+.EmploymentHistory{
+	margin-bottom: 4px;
+	background-color: rgb(247,231,125);
+	text-align: center;
+	color: rgb(249, 97, 103);
+	font-size: 17px;
+	
+}
+
+.Education{
+	margin-bottom: 4px;
+	background-color: rgb(247,231,125);
+	text-align: center;
+	color: rgb(249, 97, 103);
+	font-size: 17px;
+}
+
+.Skills{
+	margin-bottom: 4px;
+	background-color: rgb(247,231,125); 
+	text-align: center;
+	color: rgb(249, 97, 103);
+	font-size: 17px;
+	
+}
+
+.Internship{
+	margin-bottom: 4px;
+	background-color: rgb(247,231,125); 
+	text-align: center;
+	color: rgb(249, 97, 103);
+	font-size: 17px;
+}
+
+.References{
+	margin-bottom: 4px;
+	background-color: rgb(247,231,125); 
+	text-align: center;
+	color: rgb(249, 97, 103);
+	font-size: 17px;
+}
+.info{
+	margin-left: 2cm;
+    margin-right: 2cm;
+}
+.contact_info{
+	margin-left: 2cm;
+	margin-right: 2cm;
+}
+.End_of_details{
+	width: 80%;
+}
+.whole{
+	background-color: rgb(41,40,38); 
+}
